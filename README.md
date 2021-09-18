@@ -12,3 +12,5 @@ https://Dustin2400.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Dustin Grijalva
+
+### ©️2019 Run Buddy, Inc
